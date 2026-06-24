@@ -1,8 +1,8 @@
 # Student Grading System
 
 ## Intern Information
-- **Name:** BONDADA GAUTHAM SAI
-- **Intern ID:** CITS1588
+- **Name:** CHENNU PURNACHANDRA RAO
+- **Intern ID:** CITS2514
 
 ## Project Overview
 The Student Grading System is a simple SQL-based database project used to store and manage student records, marks, and grades. It demonstrates basic database operations and SQL queries.
@@ -75,5 +75,5 @@ This project provides a basic understanding of database creation, data managemen
 
 ---
 ### Submitted By
-**BONDADA GAUTHAM SAI**  
-**Intern ID: CITS1588**
+**CHENNU PURNACHANDRA RAO**  
+**Intern ID: CITS2514**
